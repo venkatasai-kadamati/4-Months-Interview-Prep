@@ -17,8 +17,12 @@ public class StackImplementationUsingLinkedList {
     }
 
     public static class Stack {
-//        ! Implementation using LinkedList
-        
+        //        ! Implementation using LinkedList
+        class Node {
+            int data;
+            Node next;
+
+        }
 
     }
 }
