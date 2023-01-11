@@ -1,4 +1,4 @@
-package Learning_Notes.OOPS.OOPS_Learning_Codes;
+package Learning_Notes.OOPS.Codes;
 
 public class OOPS {
     public static void main(String[] args) {

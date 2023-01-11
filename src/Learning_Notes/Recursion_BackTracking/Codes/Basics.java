@@ -1,6 +1,6 @@
-package Learning_Notes.Recursion_BackTracking;
+package Learning_Notes.Recursion_BackTracking.Codes;
 
-// ? Fractorial Problem in recursive and iternative manner.
+// ? Factorial Problem in recursive and Iterative manner.
 
 // ? Print the values before n number in recursive manner / could have used for/ while loop
 public class Basics {

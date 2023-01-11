@@ -1,4 +1,4 @@
-package Learning_Notes.Stacks;
+package Learning_Notes.Stacks.Codes;
 
 import java.util.ArrayList;
 
