@@ -6,8 +6,9 @@ public class SlidingWindowBasics {
     public static void main(String[] args) {
         int[] arr = {1, 5, -1, 6, 3, 2};
 //        bruteForce(arr, 3);
-        slidingWindow(arr, 3);
-        maxSum(arr,3);
+//        slidingWindow(arr, 3);
+        maxSum(arr, 3);
+        d
     }
 
 //    ! Maximum sum of subarray of size K
@@ -22,8 +23,8 @@ public class SlidingWindowBasics {
                 sum = sum + arr[j];
                 System.out.println(sum);
 
-                int max = 9000 ;
-                if(max < sum){
+                int max = 9000;
+                if (max < sum) {
                     max = sum;
                 }
                 System.out.println(max);
