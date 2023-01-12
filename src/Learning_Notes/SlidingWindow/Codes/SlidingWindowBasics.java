@@ -21,6 +21,12 @@ public class SlidingWindowBasics {
             for (int j = i; j < i + k; j++) {
                 sum = sum + arr[j];
                 System.out.println(sum);
+
+                int max = 9000 ;
+                if(max < sum){
+                    max = sum;
+                }
+                System.out.println(max);
             }
         }
     }
