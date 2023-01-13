@@ -8,7 +8,7 @@ public class SlidingWindowBasics {
 //        bruteForce(arr, 3);
 //        slidingWindow(arr, 3);
         maxSum(arr, 3);
-        d
+        maxSum2(arr, 3);
     }
 
 //    ! Maximum sum of subarray of size K
@@ -31,6 +31,27 @@ public class SlidingWindowBasics {
             }
         }
     }
+
+    //    ! Maximum sum of subarray of size k
+    public static void maxSum2(int arr[], int k) {
+        int n = arr.length;
+        int sum = 0;
+//        ** Here the outer loop defines the boundary to check and traverse until, since n-k is inclusive thus we use <=.
+//        ** The inner loop defines the range of sum, since we want 3 digits in array,
+        for (int i = 0; i <= n - k; i++) {
+            for (int j = i; j < i + k; j++) {
+                sum = sum + arr[j];
+                System.out.println(sum);
+
+                int max = 9000;
+                if (max < sum) {
+                    max = sum;
+                }
+                System.out.println(max);
+            }
+        }
+    }
+
 
     //    ! Brute force approach
     public static void bruteForce(int arr[], int k) {
