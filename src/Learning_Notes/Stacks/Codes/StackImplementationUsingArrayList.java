@@ -50,6 +50,7 @@ public class StackImplementationUsingArrayList {
         // ** Print Method
         void print() {
             if (isEmpty()) {
+//                The value is simply returned as it is null
                 return;
             }
             for (int i : s) {
