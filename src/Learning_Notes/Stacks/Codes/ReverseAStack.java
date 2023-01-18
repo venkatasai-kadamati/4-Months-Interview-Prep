@@ -16,7 +16,7 @@ public class ReverseAStack {
     }
 
     private static void printStack(Stack<Integer> s) {
-        while(s.isEmpty()){
+        while (s.isEmpty()) {
             System.out.println(s.pop());
         }
     }
@@ -30,11 +30,15 @@ public class ReverseAStack {
         pushAtBottom(s, top);
     }
 
-    //    ! Approach - 1 : We can use an additional stack{ll,al} but it uses up extra memory
-    //    ! Approach - 2 : Since the alternative need for no extra memory arises we simply use recursion, here we can use the pushAtBottom method to reverse the stack.
+    // ! Approach - 1 : We can use an additional stack{ll,al} but it uses up extra
+    // memory
+    // ! Approach - 2 : Since the alternative need for no extra memory arises we
+    // simply use recursion, here we can use the pushAtBottom method to reverse the
+    // stack.
 
-    //    ** pushAtBottom is a recursive function as it needs to get called itself while getting removed and re-added accordingly.
-    //    ** In a recursive look for the simplest method which is the base case.
+    // ** pushAtBottom is a recursive function as it needs to get called itself
+    // while getting removed and re-added accordingly.
+    // ** In a recursive look for the simplest method which is the base case.
     public static void pushAtBottom(Stack<Integer> s, int data) {
 
         if (s.isEmpty()) {
@@ -42,7 +46,7 @@ public class ReverseAStack {
             return;
         }
         int top = s.pop();
-        pushAtBottom(s,data);
+        pushAtBottom(s, data);
         s.push(top);
 
     }

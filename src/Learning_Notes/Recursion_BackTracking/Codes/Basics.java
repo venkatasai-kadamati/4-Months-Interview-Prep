@@ -5,16 +5,16 @@ package Learning_Notes.Recursion_BackTracking.Codes;
 // ? Print the values before n number in recursive manner / could have used for/ while loop
 public class Basics {
     public static void main(String[] args) {
-//        Recursive call
+        // Recursive call
         System.out.println(FactorialRecursive(5));
-//        Iterative Call
+        // Iterative Call
         System.out.println(factorialIterative(4));
-//        Print Number
+        // Print Number
         System.out.println(printNumber(5));
 
     }
 
-    //    printNumber call
+    // printNumber call
     private static int printNumber(int n) {
         if (n == 0) {
             return 0;
@@ -24,7 +24,7 @@ public class Basics {
         }
     }
 
-    //  Recursive Code
+    // Recursive Code
     private static int FactorialRecursive(int n) {
 
         if (n == 0) {
