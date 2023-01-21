@@ -7,3 +7,5 @@
 <img src="https://img.shields.io/badge/update-daily-green">&nbsp;&nbsp;
 </div>
 </br>
+
+This consists of all the required problems and insights to have an proper solving ability
