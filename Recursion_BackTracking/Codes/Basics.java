@@ -1,4 +1,4 @@
-package Learning_Notes.Recursion_BackTracking.Codes;
+package Recursion_BackTracking.Codes;
 
 // ? Factorial Problem in recursive and Iterative manner.
 

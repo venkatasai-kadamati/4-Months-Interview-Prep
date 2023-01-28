@@ -1,4 +1,4 @@
-package Learning_Notes.Patterns;
+package Patterns;
 
 // ? Pattern1 : 
 /* 

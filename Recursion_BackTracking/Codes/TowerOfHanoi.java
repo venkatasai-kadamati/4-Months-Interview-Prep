@@ -1,4 +1,4 @@
-package Learning_Notes.Recursion_BackTracking.Codes;
+package Recursion_BackTracking.Codes;
 
 // ? Tower of Hanoi code => The main agenda is to know the code structure for it.
 public class TowerOfHanoi {
