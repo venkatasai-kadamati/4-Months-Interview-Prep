@@ -1,5 +1,4 @@
-package Patterns;
-
+package Patterns.Codes;
 
 // ? Pattern3 : 
 /* 
@@ -14,7 +13,7 @@ package Patterns;
 
 public class Star_Pattern3 {
   public static void main(String[] args) {
-    
+
   }
 
 }

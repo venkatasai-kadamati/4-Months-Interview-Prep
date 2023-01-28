@@ -1,4 +1,4 @@
-package Patterns;
+package Patterns.Codes;
 
 
 // ? Pattern2 : 
