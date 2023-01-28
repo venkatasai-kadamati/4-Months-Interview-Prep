@@ -1,4 +1,4 @@
-# 4Months-Interview-Prep
+# 4 Months-Interview-Prep
 <h1 align="center"><b>This is my Personal Repository used for Complete Preparation for my dream companies</b></h1>
 </br>
 
