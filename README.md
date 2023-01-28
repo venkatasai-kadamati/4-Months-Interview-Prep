@@ -12,31 +12,17 @@ This consists of all the required problems and insights to have an proper solvin
 
 
 > OOPS
-Basic definition 
-Inheritance 
-Polymorphism 
-Encapsulation 
-Abstraction 
-Virtual Function
-Constructor
-Destructor   
-Static keyword
-Abstract keyword 
-Diamond Problem 
-
-Short Cut 
-
 - [Basic definition](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)    
-- [Inheritance]()    
-- [Polymorphism]()    
-- [Encapusulation]()    
-- [Abstraction]()    
-- [Virtual Function]()    
-- [Constructor]()    
-- [Destructor]()    
-- [Static Keyword]()    
-- [Abstract Keyword]()    
-- [Diamond Problem]()    
+- [Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)    
+- [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-java/)    
+- [Encapusulation](https://www.geeksforgeeks.org/encapsulation-in-java/)    
+- [Abstraction](https://www.geeksforgeeks.org/abstraction-in-java-2/)    
+- [Virtual Function](https://www.geeksforgeeks.org/virtual-function-cpp/)    
+- [Constructor](https://www.geeksforgeeks.org/constructors-in-java/)    
+- [Destructor](https://www.educba.com/destructor-in-java/)    
+- [Static Keyword](https://www.geeksforgeeks.org/static-keyword-java/)    
+- [Abstract Keyword](https://www.geeksforgeeks.org/abstract-keyword-in-java/)    
+- [Diamond Problem](https://www.tutorialspoint.com/what-is-diamond-problem-in-case-of-multiple-inheritance-in-java)    
 
 
 
