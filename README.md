@@ -8,4 +8,39 @@
 </div>
 </br>
 
-This consists of all the required problems and insights to have an proper solving ability
+This consists of all the required problems and insights to have an proper solving ability.
+
+
+> OOPS
+Basic definition 
+Inheritance 
+Polymorphism 
+Encapsulation 
+Abstraction 
+Virtual Function
+Constructor
+Destructor   
+Static keyword
+Abstract keyword 
+Diamond Problem 
+
+Short Cut 
+
+- [Basic definition](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)    
+- [Inheritance]()    
+- [Polymorphism]()    
+- [Encapusulation]()    
+- [Abstraction]()    
+- [Virtual Function]()    
+- [Constructor]()    
+- [Destructor]()    
+- [Static Keyword]()    
+- [Abstract Keyword]()    
+- [Diamond Problem]()    
+
+
+
+
+
+
+
