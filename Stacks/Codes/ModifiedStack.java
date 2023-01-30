@@ -1,4 +1,4 @@
-package Learning_Notes.Stacks.Codes;
+package Stacks.Codes;
 
 public class ModifiedStack {
   public static void main(String[] args) {

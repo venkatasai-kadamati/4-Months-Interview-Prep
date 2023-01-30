@@ -1,4 +1,4 @@
-package Learning_Notes.Sliding_Window.Codes;
+package Sliding_Window.Codes;
 
 // ? Find Sum Of All Contiguous Subarrays Of Size K
 // ?
