@@ -1,4 +1,4 @@
-package Learning_Notes.Stacks.Codes;
+package Stacks.Codes;
 
 import java.util.*;
 
