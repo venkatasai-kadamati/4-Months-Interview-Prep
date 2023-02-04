@@ -12,3 +12,5 @@ public int removeElement(int[] nums, int val) {
     }
     return n;
 }
+
+// Function parameter is rate
