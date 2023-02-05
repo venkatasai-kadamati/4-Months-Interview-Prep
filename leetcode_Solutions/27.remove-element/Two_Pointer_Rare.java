@@ -13,4 +13,4 @@ public int removeElement(int[] nums, int val) {
     return n;
 }
 
-// Function parameter is rate
+// Function parameter is rate at which occurence of sliding window is estimated
