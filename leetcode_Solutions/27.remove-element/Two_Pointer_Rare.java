@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=27 lang=java
+ *
+ * [27] Remove Element
+ */
+// @lc code=start
+
 public int removeElement(int[] nums, int val) {
     int i = 0;
     int n = nums.length;
@@ -14,3 +21,4 @@ public int removeElement(int[] nums, int val) {
 }
 
 // Function parameter is rate at which occurence of sliding window is estimated
+// @lc code=end
