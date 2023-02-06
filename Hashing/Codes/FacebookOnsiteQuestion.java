@@ -11,6 +11,7 @@ Output:[1] */
 
 // ** https://leetcode.com/discuss/interview-question/1188820/facebook-onsite-interview-how-to-solve-optimally
 
+
 public static List<Integer> getMaxFreq(List<Integer> input, int k) {
   List<Integer> res = new ArrayList<>();
   // Map to frequency of each element in the window
@@ -41,3 +42,7 @@ public static List<Integer> getMaxFreq(List<Integer> input, int k) {
   }
   return res;
 }
+
+
+
+// ! Alternative solution : https://leetcode.com/discuss/interview-question/1188820/facebook-onsite-interview-how-to-solve-optimally#:~:text=%5B-,Java,-%5D%0ATime%20Complexity 
