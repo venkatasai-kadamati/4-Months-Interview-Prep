@@ -9,6 +9,8 @@ Output: [2,2,1,2,2,3]
 Input:[1,2], m = 2
 Output:[1] */
 
+// ** https://leetcode.com/discuss/interview-question/1188820/facebook-onsite-interview-how-to-solve-optimally
+
 public static List<Integer> getMaxFreq(List<Integer> input, int k) {
   List<Integer> res = new ArrayList<>();
   // Map to frequency of each element in the window
