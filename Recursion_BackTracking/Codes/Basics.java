@@ -3,7 +3,7 @@ package Recursion_BackTracking.Codes;
 // ? Factorial Problem in recursive and Iterative manner.
 
 // ? Print the values before n number in recursive manner / could have used for/ while loop
-public class Basics {
+ class Basics {
     public static void main(String[] args) {
         // Recursive call
         System.out.println(FactorialRecursive(5));
