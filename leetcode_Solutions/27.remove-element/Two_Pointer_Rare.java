@@ -22,3 +22,5 @@ public int removeElement(int[] nums, int val) {
 
 // Function parameter is rate at which occurence of sliding window is estimated
 // @lc code=end
+
+// Time Complexity : O(n)
