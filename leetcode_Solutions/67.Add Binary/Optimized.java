@@ -12,5 +12,6 @@ public class Solution {
     }
     if (carry != 0) sb.append(carry);
     return sb.reverse().toString();
+    // The solutions Time Complexity : O(n)
   }
 }
